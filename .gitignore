@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.py[cod]
+secrets.txt
+*.tgz
+flink-1.18.0/
+kafka_2.12-3.6.0/
